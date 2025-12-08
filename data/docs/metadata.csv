@@ -1,4 +1,4 @@
-Text_ID,Country,Category,Speaker,Date,Title,Source,Word_count,Speech_Type,Downloaded,Preprocessed,Filename,Context
+text_id,country,category,speaker,date,title,source,word_count,speech_type,downloaded,preprocessed,filename,context
 USA_MST_01,US,Mainstream,George W. Bush,02/09/2004,Acceptance speech,https://www.americanrhetoric.com/speeches/PDFFiles/George%20W.%20Bush%20-%20Republican%20Nomination%20Acceptance%202004.pdf,5467,Acceptance,Y,Y,georgewbushacceptance2004.txt,George bush accepting the RNC 2004
 USA_MST_02,US,Mainstream,Mitt Romney,30/08/2012,Acceptance speech,https://www.presidency.ucsb.edu/documents/address-accepting-the-presidential-nomination-the-republican-national-convention-tampa,4954,Acceptance,Y,Y,romneyacceptance.txt,Mitt Romney accepting the RNC 2012
 USA_MST_03,US,Mainstream,George W. Bush,03/08/2000,Acceptance speech,https://www.presidency.ucsb.edu/documents/address-accepting-the-presidential-nomination-the-republican-national-convention-0,4044,Acceptance,Y,N,bushacceptance2000.txt,George bush accepting the RNC 2000

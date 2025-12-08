@@ -1,0 +1,16 @@
+VADER SENTIMENT ANALYSIS - SUMMARY STATISTICS
+================================================================================
+
+BY CATEGORY:
+
+Mainstream:
+  N = 14
+  Mean: +0.171
+  Median: +0.139
+  Std Dev: 0.070
+
+Populist:
+  N = 14
+  Mean: +0.105
+  Median: +0.087
+  Std Dev: 0.072
