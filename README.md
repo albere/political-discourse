@@ -1,5 +1,4 @@
 # Political Discourse Analysis
-Extended Project for Access to HE Diploma
 
 ## Project Overview
 Computational analysis of UK political rhetoric (2019-2024)
