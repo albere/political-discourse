@@ -1,0 +1,81 @@
+================================================================================
+COMPLETE CORPUS ANALYSIS REPORT
+================================================================================
+
+Analysis Date: 2026-01-07 16:29:51
+Corpus Size: 28 speeches
+Corpus Location: /home/albere/compling/data/processed
+
+CORPUS COMPOSITION:
+--------------------------------------------------------------------------------
+  Mainstream: 14 speeches
+  Populist: 14 speeches
+
+
+SIGNIFICANT FINDINGS (p < 0.05):
+================================================================================
+
+VADER POSITIVE:
+  Populist:    M = 0.15, SD = 0.03
+  Mainstream:  M = 0.18, SD = 0.02
+  Difference:  -0.03 (Populist lower)
+  Statistics:  t(26) = -3.53, p = 0.0016, d = -1.33
+  Effect size: Large
+
+THEY DENSITY:
+  Populist:    M = 17.11, SD = 7.97
+  Mainstream:  M = 11.46, SD = 3.06
+  Difference:  +5.66 (Populist higher)
+  Statistics:  t(26) = 2.48, p = 0.0200, d = 0.94
+  Effect size: Large
+
+DIFFICULT WORDS PCT:
+  Populist:    M = 10.37, SD = 2.93
+  Mainstream:  M = 12.72, SD = 2.21
+  Difference:  -2.36 (Populist lower)
+  Statistics:  t(26) = -2.40, p = 0.0237, d = -0.91
+  Effect size: Large
+
+VADER COMPOUND:
+  Populist:    M = 0.11, SD = 0.07
+  Mainstream:  M = 0.17, SD = 0.07
+  Difference:  -0.06 (Populist lower)
+  Statistics:  t(26) = -2.38, p = 0.0250, d = -0.90
+  Effect size: Large
+
+CRISIS DENSITY:
+  Populist:    M = 11.83, SD = 2.54
+  Mainstream:  M = 9.12, SD = 3.86
+  Difference:  +2.71 (Populist higher)
+  Statistics:  t(26) = 2.20, p = 0.0371, d = 0.83
+  Effect size: Large
+
+
+NON-SIGNIFICANT FINDINGS (p ≥ 0.05):
+================================================================================
+
+anti elite density: p = 0.0766
+flesch reading ease: p = 0.1385
+hedging density: p = 0.1450
+we they ratio: p = 0.1903
+certainty density: p = 0.4095
+we density: p = 0.4473
+avg sentence length: p = 0.6700
+vader negative: p = 0.8803
+certainty hedging ratio: p = 0.9109
+
+
+================================================================================
+FILES GENERATED:
+================================================================================
+
+1. all_features_combined.csv - All linguistic features for all speeches
+2. ngram_results/bigram_comparison.csv - Distinctive 2-word phrases
+3. ngram_results/trigram_comparison.csv - Distinctive 3-word phrases
+4. ngram_results/ngram_summary.txt - N-gram analysis summary
+5. statistical_tests.csv - Complete statistical test results
+6. MASTER_ANALYSIS_REPORT.txt - This file
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================

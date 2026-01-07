@@ -23,3 +23,11 @@ data/processed/*
 
 # OS
 .DS_Store
+
+# Week 2 test files (outside project)
+../../week2_*
+../../pdf_to_txt_batch_convertor.py
+../../deadpdf/
+
+# Raw data
+../raw/*.txt

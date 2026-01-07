@@ -1,0 +1,57 @@
+N-GRAM ANALYSIS SUMMARY
+================================================================================
+
+TOP 10 DISTINCTIVE POPULIST BIGRAMS:
+--------------------------------------------------------------------------------
+  joe biden                 -  30 times (30.0x more than mainstream)
+  think that                -  24 times (24.0x more than mainstream)
+  we got                    -  44 times (22.0x more than mainstream)
+  north carolina            -  22 times (22.0x more than mainstream)
+  brexit party              -  22 times (22.0x more than mainstream)
+  the border                -  21 times (21.0x more than mainstream)
+  it very                   -  21 times (21.0x more than mainstream)
+  what going                -  21 times (21.0x more than mainstream)
+  think the                 -  21 times (21.0x more than mainstream)
+  the brexit                -  21 times (21.0x more than mainstream)
+
+
+TOP 10 DISTINCTIVE MAINSTREAM BIGRAMS:
+--------------------------------------------------------------------------------
+  finish the                -  23 times (23.0x more than populist)
+  ve started                -  20 times (20.0x more than populist)
+  at home                   -  16 times (16.0x more than populist)
+  something better          -  16 times (16.0x more than populist)
+  hardworking people        -  15 times (15.0x more than populist)
+  for britain               -  30 times (15.0x more than populist)
+  health care               -  14 times (14.0x more than populist)
+  of opportunity            -  28 times (14.0x more than populist)
+  that works                -  14 times (14.0x more than populist)
+  conservative government   -  14 times (14.0x more than populist)
+
+
+TOP 10 DISTINCTIVE POPULIST TRIGRAMS:
+--------------------------------------------------------------------------------
+  they re going                       -  27 times (27.0x more)
+  going to do                         -  23 times (23.0x more)
+  re not going                        -  21 times (21.0x more)
+  the brexit party                    -  21 times (21.0x more)
+  think of it                         -  19 times (19.0x more)
+  have people that                    -  18 times (18.0x more)
+  over the place                      -  17 times (17.0x more)
+  but they re                         -  16 times (16.0x more)
+  we have people                      -  16 times (16.0x more)
+  we re gonna                         -  16 times (16.0x more)
+
+
+TOP 10 DISTINCTIVE MAINSTREAM TRIGRAMS:
+--------------------------------------------------------------------------------
+  land of opportunity                 -  26 times (26.0x more)
+  finish the job                      -  23 times (23.0x more)
+  we ve started                       -  20 times (20.0x more)
+  our children and                    -  13 times (13.0x more)
+  friends and allies                  -  13 times (13.0x more)
+  we will give                        -  12 times (12.0x more)
+  works for everyone                  -  11 times (11.0x more)
+  our economy and                     -   9 times (9.0x more)
+  that why we                         -  18 times (9.0x more)
+  our economy is                      -   8 times (8.0x more)

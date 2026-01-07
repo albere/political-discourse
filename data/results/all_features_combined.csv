@@ -1,0 +1,29 @@
+filename,speaker,country,year,category,word_count,vader_compound,vader_positive,vader_negative,vader_neutral,anti_elite_count,anti_elite_density,crisis_count,crisis_density,certainty_count,certainty_density,hedging_count,hedging_density,certainty_hedging_ratio,we_count,they_count,we_density,they_density,we_they_ratio,flesch_reading_ease,flesch_kincaid_grade,avg_sentence_length,difficult_words_pct
+georgewbushacceptance2004_cleaned.txt,George W. Bush,US,2004,Mainstream,5072,0.24,0.19,0.08,0.72,2,0.39,49,9.66,133,26.22,25,4.93,5.32,204,65,39.9,12.71,3.14,57.45,9.75,18.13,13.59
+romneyacceptance_cleaned.txt,Mitt Romney,US,2012,Mainstream,4099,0.23,0.2,0.06,0.74,2,0.49,31,7.56,59,14.39,31,7.56,1.9,132,43,31.66,10.31,3.07,67.01,7.73,15.36,10.35
+bushacceptance2000_cleaned.txt,George W. Bush,US,2000,Mainstream,4072,0.19,0.2,0.07,0.73,8,1.96,47,11.54,113,27.75,21,5.16,5.38,155,50,37.65,12.14,3.1,70.55,6.47,12.28,12.6
+romneyforeignpolicyspeech2012_cleaned.txt,Mitt Romney,US,2012,Mainstream,3386,0.13,0.2,0.14,0.67,5,1.48,49,14.47,64,18.9,12,3.54,5.33,150,42,43.49,12.18,3.57,51.52,10.96,19.66,16.26
+mccainacceptance2008_cleaned.txt,John McCain,US,2008,Mainstream,3976,0.14,0.2,0.11,0.68,22,5.53,35,8.8,81,20.37,30,7.55,2.7,140,60,34.2,14.66,2.33,70.63,6.84,13.84,11.76
+mccainpolicyspeech2008_cleaned.txt,John McCain,US,2008,Mainstream,3840,0.09,0.19,0.13,0.68,6,1.56,44,11.46,68,17.71,28,7.29,2.43,164,43,42.48,11.14,3.81,45.05,12.35,21.64,18.49
+penceacceptance2016_cleaned.txt,Mike Pence,US,2016,Mainstream,2998,0.26,0.2,0.07,0.73,11,3.67,53,17.68,47,15.68,22,7.34,2.14,86,32,27.75,10.33,2.69,63.33,9.08,18.73,12.22
+trumpacceptance_cleaned.txt,Donald Trump,US,2016,Populist,6337,0.06,0.15,0.09,0.76,5,0.79,95,14.99,100,15.78,57,8.99,1.75,233,199,34.57,29.53,1.17,80.31,4.55,10.02,6.65
+trumpphoenixcampaign2016_cleaned.txt,Donald Trump,US,2016,Populist,6851,0.04,0.14,0.13,0.73,13,1.9,81,11.82,223,32.55,31,4.52,7.19,250,145,35.25,20.44,1.72,61.71,7.89,13.05,11.16
+trumppalmbeachcampaign2016_cleaned.txt,Donald Trump,US,2016,Populist,2666,-0.01,0.1,0.12,0.78,32,12.0,41,15.38,47,17.63,13,4.88,3.62,89,58,33.23,21.66,1.53,57.67,10.01,19.28,13.25
+trumpcampaignannouncement2015_cleaned.txt,Donald Trump,US,2015,Populist,6411,0.06,0.15,0.09,0.76,5,0.78,95,14.82,100,15.6,57,8.89,1.75,233,199,34.49,29.46,1.17,80.48,4.52,10.03,6.6
+trumpacceptance2020_cleaned.txt,Donald Trump,US,2020,Populist,6973,0.13,0.18,0.1,0.72,20,2.87,75,10.76,178,25.53,31,4.45,5.74,287,141,40.16,19.73,2.04,60.53,8.32,14.09,14.46
+trumplatrobecampaign2020_cleaned.txt,Donald Trump,US,2020,Populist,14163,0.06,0.15,0.1,0.76,20,1.41,211,14.9,128,9.04,68,4.8,1.88,413,403,27.56,26.9,1.02,79.99,4.74,10.62,6.54
+trumpbutlercampaign2024_cleaned.txt,Donald Trump,US,2024,Populist,12736,0.15,0.21,0.08,0.71,13,1.02,166,13.03,318,24.97,112,8.79,2.84,482,251,35.92,18.71,1.92,79.19,5.0,11.21,6.71
+farageresignation_cleaned.txt,Nigel Farage,UK,2016,Populist,1337,0.28,0.15,0.05,0.8,3,2.24,13,9.72,29,21.69,9,6.73,3.22,42,6,30.5,4.36,7.0,64.92,9.93,23.05,11.37
+farageconference2013_cleaned.txt,Nigel Farage,UK,2013,Populist,3416,0.07,0.13,0.07,0.81,9,2.63,26,7.61,43,12.59,29,8.49,1.48,132,49,37.61,13.96,2.69,68.51,6.43,10.96,15.33
+farageconference2015_cleaned.txt,Nigel Farage,UK,2015,Populist,3744,0.18,0.15,0.06,0.79,4,1.07,38,10.15,49,13.09,25,6.68,1.96,164,41,42.38,10.59,4.0,67.01,8.76,19.5,9.46
+faragebrexitrally2019_cleaned.txt,Nigel Farage,UK,2019,Populist,1979,0.13,0.14,0.07,0.79,14,7.07,18,9.1,34,17.18,16,8.08,2.12,85,29,41.73,14.24,2.93,71.15,7.18,15.48,11.85
+farageconference2025_cleaned.txt,Nigel Farage,UK,2025,Populist,3050,0.09,0.13,0.08,0.79,4,1.31,40,13.11,102,33.44,20,6.56,5.1,149,27,47.7,8.64,5.52,68.06,8.53,19.17,11.25
+farageconference2014_cleaned.txt,Nigel Farage,UK,2014,Populist,4654,0.09,0.11,0.08,0.81,29,6.23,50,10.74,72,15.47,39,8.38,1.85,173,58,36.01,12.07,2.98,62.72,9.74,21.06,10.68
+faragebrexitlaunch2019_cleaned.txt,Nigel Farage,UK,2019,Populist,8995,0.15,0.16,0.07,0.77,32,3.56,86,9.56,145,16.12,88,9.78,1.65,329,87,35.21,9.31,3.78,65.82,8.14,16.35,9.84
+cameronelectionwin2015_cleaned.txt,David Cameron,UK,2015,Mainstream,5902,0.11,0.15,0.08,0.77,2,0.34,42,7.12,58,9.83,36,6.1,1.61,240,99,39.16,16.16,2.42,75.62,5.51,11.28,11.18
+cameroneuspeech2016_cleaned.txt,David Cameron,UK,2016,Mainstream,6531,0.13,0.16,0.09,0.75,6,0.92,69,10.56,68,10.41,48,7.35,1.42,347,60,52.89,9.14,5.78,58.0,9.84,18.81,13.09
+mayconference2017_cleaned.txt,Theresa May,UK,2017,Mainstream,1686,0.1,0.14,0.09,0.77,2,1.19,9,5.34,12,7.12,7,4.15,1.71,49,15,28.89,8.84,3.27,70.97,6.99,14.6,12.98
+sunakconference2023_cleaned.txt,Rishi Sunak,UK,2023,Mainstream,7502,0.12,0.15,0.07,0.78,10,1.33,63,8.4,168,22.39,54,7.2,3.11,360,63,46.27,8.1,5.71,69.88,6.62,12.52,12.13
+maybrexitspeech2017_cleaned.txt,Theresa May,UK,2017,Mainstream,6372,0.32,0.2,0.04,0.76,3,0.47,26,4.08,154,24.17,35,5.49,4.4,269,35,42.16,5.49,7.69,55.76,10.44,19.97,11.36
+cameronconference2013_cleaned.txt,David Cameron,UK,2013,Mainstream,5887,0.11,0.15,0.08,0.77,2,0.34,42,7.13,58,9.85,36,6.12,1.61,239,99,39.1,16.2,2.41,75.76,5.49,11.25,11.07
+mayconference2016_cleaned.txt,Theresa May,UK,2013,Mainstream,7210,0.21,0.2,0.06,0.75,7,0.97,28,3.88,109,15.12,52,7.21,2.1,232,95,31.82,13.03,2.44,66.77,7.67,14.99,11.07
